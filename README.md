@@ -14,7 +14,7 @@ Nama aplikasi diatur melalui `APP_NAME=KelasKu` pada `.env`. Layout, judul brows
 | --- | --- |
 | Akun | Registrasi web, login NIM/NIP, profil; peran mahasiswa, dosen, dan admin |
 | Ruangan | Pencarian ruangan aktif, kapasitas, fasilitas, dan informasi jadwal |
-| Peminjaman | Pengajuan, riwayat pribadi, serta persetujuan atau penolakan admin |
+| Peminjaman | Pengajuan, detail dan riwayat pribadi, revisi waktu, pembatalan, serta persetujuan atau penolakan admin |
 | Administrasi web | Pengelolaan ruangan, fasilitas, pengguna, dan jadwal |
 | Jadwal kuliah web | Pola mingguan per semester, pengecualian pertemuan, dan impor CSV dengan pratinjau |
 | REST API v1 | Login token, profil akun, ruangan, pemeriksaan ketersediaan, pengajuan, riwayat, dan peninjauan admin |
